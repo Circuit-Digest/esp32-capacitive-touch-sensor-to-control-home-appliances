@@ -8,7 +8,7 @@ Capacitive Touch Sensor Home Automation using ESP32
 
 A **Capacitive Touch Sensor System using ESP32** for automating home appliances like lights or fans with simple touch inputs. This DIY project uses ESP32's built-in capacitive touch GPIOs for efficient control.
 
-![Capacitive Touch with ESP32]()
+![Capacitive Touch with ESP32](https://github.com/Circuit-Digest/esp32-capacitive-touch-sensor-to-control-home-appliances/blob/44d00514784969d09ef6c152c60471363590681b/ESP32-Touch-Sensor.jpg)
 
 🚀 Features
 -----------
