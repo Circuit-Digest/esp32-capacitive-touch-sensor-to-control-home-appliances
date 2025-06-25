@@ -67,7 +67,7 @@ Board Manager URL: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-
 
 - Wire touch pads to GPIOs (e.g., GPIO 4, 5)
 - Connect relays to ESP32 and AC appliances
-- Ensure common GND for all components
+- Ensure a common GND for all components
 
 ### 3. Code Upload
 
@@ -105,20 +105,20 @@ Upload `ESP32_Touch_Control.ino` via Arduino IDE
 
 **Touch Input Not Working**
 
-- Check touch threshold values in code
-- Use larger surface or conductive wire for better sensing
+- Check touch threshold values in the code
+- Use a larger surface or conductive wire for better sensing
 - Avoid long wires (increase signal noise)
 
 **Relay Not Switching**
 
-- Ensure relay module is 5V compatible
-- Confirm GPIO is correctly triggering relay IN pin
-- Use opto-isolated relay for inductive loads
+- Ensure the relay module is 5V compatible
+- Confirm GPIO is correctly triggering the relay IN pin
+- Use an opto-isolated relay for inductive loads
 
 **Random Triggering**
 
 - Place touch pads away from AC wiring
-- Shield wires or use lower threshold value
+- Shield wires or use a lower threshold value
 
 📱 Applications
 ---------------
