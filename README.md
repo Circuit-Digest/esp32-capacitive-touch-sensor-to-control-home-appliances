@@ -151,16 +151,6 @@ Upload `ESP32_Touch_Control.ino` via Arduino IDE
 | Power Consumption     | <100mA (Idle)         |
 | Operating Temp        | 0°C to 50°C           |
 
-🤝 Contributing
----------------
-
-We welcome improvements!
-
-1. Fork the repository
-2. Create a branch (`git checkout -b touch-feature`)
-3. Commit changes (`git commit -m 'Improved touch response'`)
-4. Push (`git push origin touch-feature`)
-5. Open a Pull Request
 
 🔗 Links
 --------
